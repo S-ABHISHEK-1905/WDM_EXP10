@@ -36,3 +36,4 @@ REG. NO. : 212221230002
 ![image](https://github.com/S-ABHISHEK-1905/WDM_EXP10/assets/66360846/66d98a71-57f8-406a-a0b0-a45f2f94aa85)
 
 ### Result:
+Thus sentimental analysis for twitter data is executed successfully using rapidminer.
