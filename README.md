@@ -1,6 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
-### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+### DATE: 27/4/2024
+### AIM: 
+To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
 
@@ -26,5 +27,12 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+```
+NAME : S.ABHISHEK
+REG. NO. : 212221230002
+```
+![image](https://github.com/S-ABHISHEK-1905/WDM_EXP10/assets/66360846/8204ff93-ac75-44d8-ba43-154e67cee802)
+![image](https://github.com/S-ABHISHEK-1905/WDM_EXP10/assets/66360846/c9a4a333-8f35-43f0-b3f2-91d404511266)
+![image](https://github.com/S-ABHISHEK-1905/WDM_EXP10/assets/66360846/66d98a71-57f8-406a-a0b0-a45f2f94aa85)
 
 ### Result:
